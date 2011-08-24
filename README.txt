@@ -1,14 +1,5 @@
-Home page: http://programiscellaneous.com/programming-projects/edline-php-class/what-is-it/
-
-Documentation available at http://programiscellaneous.com/programming-projects/edline-php-class/documentation/
-Source available at http://github.com/johnmoore/Edline-PHP-Class
-
-=====
-
 Edline PHP Class
 Copyright (C) 2010 John Moore
-
-http://www.programiscellaneous.com/programming-projects/edline-php-class/what-is-it/
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
